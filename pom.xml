@@ -92,7 +92,7 @@
         <version>3.5.4</version>
         <configuration>
           <suiteXmlFiles>
-            <suiteXmlFile>testng.xml</suiteXmlFile>
+            <suiteXmlFile>smoketestng.xml</suiteXmlFile>
           </suiteXmlFiles>
         </configuration>
       </plugin>
