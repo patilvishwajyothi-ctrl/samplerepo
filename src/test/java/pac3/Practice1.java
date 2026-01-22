@@ -7,6 +7,10 @@ public class Practice1 {
 	//code1
 	@Test
 	public void sample() {
+		System.out.println();
+	}
+	@Test
+	public void test() {
 		
 	}
 	}
